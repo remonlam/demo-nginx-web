@@ -1,4 +1,4 @@
-FROM nginx:1.15-alpine
+FROM remonlam/demo-alpine-nginx:1.15.3
 
 LABEL maintainer="Remon Lam <remon.lam@rechtspraak.nl>"
 
